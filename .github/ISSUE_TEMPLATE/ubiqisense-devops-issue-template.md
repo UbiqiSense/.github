@@ -12,13 +12,6 @@ due date: ''
 
 [Provide a brief description of the task or feature request]
 
-## Current Behavior
-
-[Describe the current behavior or problem]
-
-## Expected Behavior
-
-[Describe the behavior you expect or the desired outcome]
 
 ## Steps to Reproduce (if applicable)
 
