@@ -8,32 +8,46 @@ repository: 'devops'
 due date: ''
 ---
 
-## Description
+# 🔧 DevOps Update / Task Template
 
-[Provide a brief description of the task or feature request]
+## 🧐 Why:
+<!--
+What’s the motivation or context behind this change?
+Is it to improve CI/CD, infrastructure reliability, observability, or automation?
+Mention any related incident, ticket, or technical debt if applicable.
+-->
 
+## ✅ What:
+<!--
+Describe the actual change.
+Examples:
+- Modified a GitHub Action workflow
+- Added a new monitoring alert
+- Updated Terraform configuration
+- Improved deployment script
+-->
 
-## Steps to Reproduce (if applicable)
+## 🌐 Impact Scope:
+<!--
+What systems/environments are affected?
+Staging, Production, AWS, Kubernetes, GitHub Actions, etc.?
+-->
 
-[Provide steps to reproduce the issue or describe the context]
+## 🔐 Security Considerations:
+<!--
+Are there any security implications?
+Do we need to update firewall rules, credentials, etc.?
+-->
 
-## Additional Context
+## 🧪 Testing & Validation:
+<!--
+How was this change tested?
+Was it applied in a non-prod environment first?
+-->
 
-[Add any additional context, logs, or screenshots that might be helpful]
+## 📎 Related:
+<!--
+Link to related issues, pull requests, documentation, tickets, etc.
+-->
 
-## Possible Solution (if applicable)
-
-[If you have any suggestions on how to address the issue, please provide them here]
-
-## Environment (if applicable)
-
-- Customer:
-- OS: [e.g., Windows, Linux]
-- DevOps Tools/Services: [e.g., Jenkins, Docker, Zabbix, etc.]
-- Version/Tag: [e.g., 2.0.1, v1.2.3]
-
-
-## Related Issues/PRs
-
-[If applicable, mention any related issues or pull requests]
 
