@@ -1,3 +1,13 @@
+---
+name: Ubiqisense sensor template
+about: Create a report to help us improve
+title: Sensor issues
+labels: ''
+assignees: ''
+repository: 'Sensor'
+due date: ''
+---
+
 # 🌡️ Sensor Update / Issue Template
 
 ## 🧐 Why:
