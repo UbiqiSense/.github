@@ -1,3 +1,13 @@
+---
+name: Ubiqisense gateway template
+about: Create a report to help us improve
+title: Gateway issues
+labels: ''
+assignees: ''
+repository: 'Gateway'
+due date: ''
+---
+
 # 📡 Gateway Update / Issue Template
 
 ## 🧐 Why:
