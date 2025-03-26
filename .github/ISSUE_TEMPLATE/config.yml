@@ -1,8 +1,5 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Sensor Issue Template
-    url: https://github.com/UbiqiSense/Sensor/issues/new?template=ubiqisense-sensor-template.md
-    about: Use this for sensor-related updates or issues.
   - name: Gateway Issue Template
     url: https://github.com/UbiqiSense/Gateway/issues/new?template=ubiqisense-gateway-template.md
     about: Use this for gateway-related updates or issues.
