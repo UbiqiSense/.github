@@ -13,6 +13,12 @@ Clearly outline what is being added, changed, or fixed.
 Include implementation details if relevant.
 -->
 
+## 🔐 Security Considerations:
+<!--
+Are there any security implications?
+Do we need to update firewall rules, credentials, etc.?
+-->
+
 ## 🧪 Testing:
 <!--
 How was this tested? Any edge cases?
