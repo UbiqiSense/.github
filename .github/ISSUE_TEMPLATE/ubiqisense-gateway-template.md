@@ -1,7 +1,7 @@
 ---
 name: Ubiqisense gateway template
 about: Create a report to help us improve
-title: Gateway issues
+title: 'Gateway:'
 labels: ''
 assignees: ''
 repository: 'Gateway'
