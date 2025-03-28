@@ -1,7 +1,7 @@
 ---
 name: Ubiqisense devops task template
 about: Create a report to help us improve
-title: Devops tasks
+title: 'Devops:'
 labels: 'operations'
 assignees: ''
 repository: 'devops'
