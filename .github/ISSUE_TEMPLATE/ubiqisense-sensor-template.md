@@ -1,7 +1,7 @@
 ---
 name: Ubiqisense sensor template
 about: Create a report to help us improve
-title: Sensor issues
+title: 'Sensor:'
 labels: ''
 assignees: ''
 repository: 'Sensor'
