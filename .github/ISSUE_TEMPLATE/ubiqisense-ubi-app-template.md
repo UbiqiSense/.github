@@ -1,5 +1,5 @@
 ---
-name: Ubiqisense web-app template
+name: Ubiqisense ubi-app template
 about: Create a report to help us improve
 title: 'ubi-app:'
 labels: ''
